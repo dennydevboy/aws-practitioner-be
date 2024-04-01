@@ -1,3 +1,7 @@
+# API URL's
+https://kcdwh5ak1a.execute-api.us-east-1.amazonaws.com/dev/products
+https://kcdwh5ak1a.execute-api.us-east-1.amazonaws.com/dev/product/{productId}
+
 # Serverless - AWS Node.js Typescript
 
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
