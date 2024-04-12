@@ -1,0 +1,257 @@
+{
+    "products": [
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "1db290d4-d8e1-4c44-8a87-98f6e86d8571"
+            },
+            "title": {
+              "S": "Crochet Princess Doll"
+            },
+            "description": {
+              "S": "Adorable amigurumi princess doll perfect for playtime."
+            },
+            "price": {
+              "N": "19.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "c3c1a919-6d0b-4e24-a869-67f45f03a611"
+            },
+            "title": {
+              "S": "Amigurumi Fairy Doll"
+            },
+            "description": {
+              "S": "Enchanting fairy amigurumi doll with wings."
+            },
+            "price": {
+              "N": "17.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "67a6de20-d279-4c8a-b8b0-c431f39c2a19"
+            },
+            "title": {
+              "S": "Crochet Ballerina Doll"
+            },
+            "description": {
+              "S": "Graceful ballerina amigurumi doll in tutu."
+            },
+            "price": {
+              "N": "15.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "38f3e6e2-185b-422a-b17b-ee6bb4e0a9b7"
+            },
+            "title": {
+              "S": "Amigurumi Mermaid Doll"
+            },
+            "description": {
+              "S": "Magical mermaid amigurumi doll with tail."
+            },
+            "price": {
+              "N": "21.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "ee39f979-3e52-4a69-8960-06b9b5c30698"
+            },
+            "title": {
+              "S": "Crochet Sailor Girl Doll"
+            },
+            "description": {
+              "S": "Sailor girl amigurumi doll with cute outfit."
+            },
+            "price": {
+              "N": "18.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "bcbf392a-90cb-4ad3-815a-64df68a6fb1a"
+            },
+            "title": {
+              "S": "Amigurumi Princess Fairy Doll"
+            },
+            "description": {
+              "S": "Princess fairy amigurumi doll with wings and crown."
+            },
+            "price": {
+              "N": "23.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "f37d5d8b-3ff1-4f28-9c24-00cf7afaf33e"
+            },
+            "title": {
+              "S": "Crochet Angel Doll"
+            },
+            "description": {
+              "S": "Angel amigurumi doll with heavenly wings."
+            },
+            "price": {
+              "N": "20.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "7d0572cb-0b27-4b1f-a3e4-6d3c4ff16a92"
+            },
+            "title": {
+              "S": "Crochet Bunny"
+            },
+            "description": {
+              "S": "Adorable amigurumi bunny perfect for cuddling."
+            },
+            "price": {
+              "N": "12.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "c2b8e7f3-2369-4d22-ba24-82c29b264e77"
+            },
+            "title": {
+              "S": "Amigurumi Elephant"
+            },
+            "description": {
+              "S": "Soft and squishy elephant plush toy."
+            },
+            "price": {
+              "N": "14.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "f70e0d2b-ec69-451f-8b0b-d6464f44a10c"
+            },
+            "title": {
+              "S": "Crochet Unicorn"
+            },
+            "description": {
+              "S": "Magical unicorn amigurumi with colorful mane."
+            },
+            "price": {
+              "N": "19.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "a843a9a4-0a2a-47ff-b7b8-ccdb44908c87"
+            },
+            "title": {
+              "S": "Amigurumi Teddy Bear"
+            },
+            "description": {
+              "S": "Classic teddy bear made with crochet."
+            },
+            "price": {
+              "N": "10.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "28d8a87a-84f2-4b6d-80b1-c0a6f4230113"
+            },
+            "title": {
+              "S": "Crochet Octopus"
+            },
+            "description": {
+              "S": "Cute octopus plushie with curly tentacles."
+            },
+            "price": {
+              "N": "16.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "c94e3fd3-b63e-4d41-a1c7-60fb8d832f56"
+            },
+            "title": {
+              "S": "Amigurumi Cat"
+            },
+            "description": {
+              "S": "Playful cat toy perfect for cat lovers."
+            },
+            "price": {
+              "N": "11.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "0b18347b-96b6-4531-a0a7-f3bc90dd4d43"
+            },
+            "title": {
+              "S": "Crochet Dog"
+            },
+            "description": {
+              "S": "Adorable dog amigurumi for kids to play with."
+            },
+            "price": {
+              "N": "13.99"
+            }
+          }
+        }
+      }
+    ]
+  }
+  
