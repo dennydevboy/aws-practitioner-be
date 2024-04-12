@@ -1,0 +1,257 @@
+{
+    "products": [
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "1db290d4-d8e1-4c44-8a87-98f6e86d8571"
+            },
+            "title": {
+              "S": "Charizard"
+            },
+            "description": {
+              "S": "Charizard, known in Japan as Lizardon, is a Pokémon in Nintendo and Game Freak's Pokémon franchise. Created by Atsuko Nishida, Charizard first appeared in the video games Pokémon Red and Blue and subsequent sequels."
+            },
+            "price": {
+              "N": "19.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "c3c1a919-6d0b-4e24-a869-67f45f03a611"
+            },
+            "title": {
+              "S": "Bulbasaur"
+            },
+            "description": {
+              "S": "Bulbasaur is a Grass/Poison-type Pokémon species in Nintendo and Game Freak's Pokémon franchise. Designed by Atsuko Nishida, Bulbasaur debuted in Pocket Monsters: Red and Green as a starter Pokémon."
+            },
+            "price": {
+              "N": "17.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "67a6de20-d279-4c8a-b8b0-c431f39c2a19"
+            },
+            "title": {
+              "S": "Charmander"
+            },
+            "description": {
+              "S": "Charmander is a Fire-type Pokémon. It evolves into a Charmeleon starting at level 16. It is one of the three Starter Pokémon that can be chosen in the Kanto region."
+            },
+            "price": {
+              "N": "15.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "38f3e6e2-185b-422a-b17b-ee6bb4e0a9b7"
+            },
+            "title": {
+              "S": "Venusaur"
+            },
+            "description": {
+              "S": "Venusaur is a Grass/Poison-type Pokémon. It is the mascot for Pokémon Green and Pokémon LeafGreen and the final form of Bulbasaur."
+            },
+            "price": {
+              "N": "21.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "ee39f979-3e52-4a69-8960-06b9b5c30698"
+            },
+            "title": {
+              "S": "Ivysaur"
+            },
+            "description": {
+              "S": "Ivysaur is a Grass/Poison Pokémon introduced in Generation I. It evolves from Bulbasaur starting at level 16, and evolves into Venusaur starting at level 32."
+            },
+            "price": {
+              "N": "18.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "bcbf392a-90cb-4ad3-815a-64df68a6fb1a"
+            },
+            "title": {
+              "S": "Squirtle"
+            },
+            "description": {
+              "S": "Wartortle is a Water-type Pokémon introduced in Generation I. It is the evolved form of Squirtle."
+            },
+            "price": {
+              "N": "23.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "f37d5d8b-3ff1-4f28-9c24-00cf7afaf33e"
+            },
+            "title": {
+              "S": "Charmeleon"
+            },
+            "description": {
+              "S": "Charmeleon is a Fire-type Pokémon introduced in Generation I."
+            },
+            "price": {
+              "N": "20.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "7d0572cb-0b27-4b1f-a3e4-6d3c4ff16a92"
+            },
+            "title": {
+              "S": "Metapod"
+            },
+            "description": {
+              "S": "Metapod is a Bug-type Pokémon introduced in Generation I. It is the evolved form of Caterpie."
+            },
+            "price": {
+              "N": "12.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "c2b8e7f3-2369-4d22-ba24-82c29b264e77"
+            },
+            "title": {
+              "S": "Blastoise"
+            },
+            "description": {
+              "S": "Blastoise is a Water-type Pokémon introduced in Generation I. Blastoise is the evolved form of Wartortle, and the final evolution of Squirtle. It is also the version mascot for Pokémon Blue."
+            },
+            "price": {
+              "N": "14.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "f70e0d2b-ec69-451f-8b0b-d6464f44a10c"
+            },
+            "title": {
+              "S": "Slowbro"
+            },
+            "description": {
+              "S": "Slowbro is a Water/Psychic-type Pokémon introduced in Generation I."
+            },
+            "price": {
+              "N": "19.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "a843a9a4-0a2a-47ff-b7b8-ccdb44908c87"
+            },
+            "title": {
+              "S": "Snorlax"
+            },
+            "description": {
+              "S": "Snorlax, known in Japan as Kabigon, is a Pokémon species, a type of Pocket Monster, in Nintendo and Game Freak's Pokémon franchise."
+            },
+            "price": {
+              "N": "10.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "28d8a87a-84f2-4b6d-80b1-c0a6f4230113"
+            },
+            "title": {
+              "S": "Gyarados"
+            },
+            "description": {
+              "S": "Gyarados is a Water/Flying-type Pokémon and is a Water/ Dark when Mega Evolved."
+            },
+            "price": {
+              "N": "16.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "c94e3fd3-b63e-4d41-a1c7-60fb8d832f56"
+            },
+            "title": {
+              "S": "Eevee"
+            },
+            "description": {
+              "S": "Eevee is a Pokémon species in the Pokémon franchise. Created by Satoshi Tajiri and designed by Motofumi Fujiwara, it first appeared in the video games Pokémon Red and Blue. It has later appeared in various merchandise, spinoff titles, as well as animated and printed adaptations of the franchise."
+            },
+            "price": {
+              "N": "11.99"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "0b18347b-96b6-4531-a0a7-f3bc90dd4d43"
+            },
+            "title": {
+              "S": "Doduo"
+            },
+            "description": {
+              "S": "Doduo is a Normal/Flying-type Pokémon introduced in Generation I."
+            },
+            "price": {
+              "N": "13.99"
+            }
+          }
+        }
+      }
+    ]
+  }
+  
