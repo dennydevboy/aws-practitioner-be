@@ -1,4 +1,4 @@
-endpoints:
+# Endpoints:
   GET - https://kcdwh5ak1a.execute-api.us-east-1.amazonaws.com/dev/products
   GET - https://kcdwh5ak1a.execute-api.us-east-1.amazonaws.com/dev/products/{productId}
   POST - https://kcdwh5ak1a.execute-api.us-east-1.amazonaws.com/dev/products
