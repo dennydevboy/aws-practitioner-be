@@ -66,8 +66,25 @@ const serverlessConfiguration: AWS = {
     },
     sqs: {
       queueName: 'catalogItemsQueue'
-    }
+    },
+    authorizer: 'authorization-dev-basicAuthorizer'
   },
+  resources: {
+    Resources: {
+      GatewayResponse: {
+        Type: "AWS::ApiGateway::GatewayResponse",
+        Properties: {
+          ResponseParameters: {
+            "gatewayresponse.header.Access-Control-Allow-Origin": "'*'",
+            "gatewayresponse.header.Access-Control-Allow-Headers": "'*'",
+          },
+          ResponseType: 'ACCESS_DENIED',
+          RestApiId: { Ref: "ApiGatewayRestApi" }
+        },
+      },
+
+    }
+  }
 };
 
 module.exports = serverlessConfiguration;
