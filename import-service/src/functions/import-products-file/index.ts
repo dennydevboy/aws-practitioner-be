@@ -15,6 +15,11 @@ export default {
                         }
                     }
                 },
+                authorizer: {
+                    type: 'token',
+                    arn: 'arn:aws:lambda:${self:provider.region}:${aws:accountId}:function:${self:custom.authorizer}',
+                    resultTtlInSeconds: 0
+                  }
             },
         },
     ],
